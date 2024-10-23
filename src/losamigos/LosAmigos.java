@@ -46,14 +46,14 @@ public class LosAmigos {
         }
 
         // Question 1
-        System.out.println("Question 1");
+        System.out.println("\nQuestion 1");
         System.out.println("----------");
         System.out.println("Oldest player: " + names[indexOfOA]);
         System.out.println("Age: " + ages[indexOfOA]);
         System.out.println("Points: " + points[indexOfOA]);
 
         // Question 2
-        System.out.println("Question 2");
+        System.out.println("\n\nQuestion 2");
         System.out.println("----------");
         System.out.println("Youngest player: " + names[indexOfYA]);
         System.out.println("Age: " + ages[indexOfYA]);
