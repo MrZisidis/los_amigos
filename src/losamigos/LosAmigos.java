@@ -60,5 +60,14 @@ public class LosAmigos {
         System.out.println("Points: " + points[indexOfYA]);
 
     }
+    
+    
+    
+    
+
+//Initialize the arrays for names, ages, and points.
+//Loop through the ages array to find the index of the oldest player.
+//Output the details (name, age, and points) of the player with the highest age.
+    
 
 }
